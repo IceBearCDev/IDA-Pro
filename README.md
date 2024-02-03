@@ -1,8 +1,21 @@
-# IDA-Pro
-The Interactive Disassembler is a disassembler for computer software which generates assembly language source code from machine-executable code. It supports a variety of executable formats for different processors and operating systems.
+![banner](https://user-images.githubusercontent.com/119074330/204051836-d495c6a9-db6b-40df-b8be-ff0f2a82862e.png)
 
-## Installed plugins
-Comes with the following preinstalled: **BinCAT diaphora patching ret-sync Auto Re BinDiff Findcrypt IDA Signsrch Keypatch LazyIDA StrongCC**
+## ✏️ &nbsp;IDA-Pro-7.7
 
-## Usage
-Its pretty straightforward. Look through the files lol.
+<!-- BLOG-POST-LIST:START -->
+
+- [BinCAT](https://github.com/Lynx305)
+- [diaphora](https://github.com/Lynx305)
+- [patching](https://github.com/Lynx305)
+- [ret-sync](https://github.com/Lynx305)
+- [Auto Re](https://github.com/Lynx305)
+- [BinDiff](https://github.com/Lynx305)
+- [Findcrypt](https://github.com/Lynx305)
+- [IDA Signsrch](https://github.com/Lynx305)
+- [Keypatch](https://github.com/Lynx305)
+- [LazyIDA](https://github.com/Lynx305)
+- [StrongCC](https://github.com/Lynx305)
+<!-- BLOG-POST-LIST:END -->
+&nbsp;
+
+
